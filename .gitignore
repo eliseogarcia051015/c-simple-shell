@@ -1,0 +1,7 @@
+*.o
+strtok
+builtin
+concat
+locate
+argv
+shell
